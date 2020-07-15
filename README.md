@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hi, I recently became fascinated by web programming e.g. developing apps
+and building websites, thanks to the [`Hack Your Future`](https://www.hackyourfuture.net/) coding school and
+its community of enthusiast developers.
+As this area complements my studies and profession as a [`graphic designer`](https://www.behance.net/rabee),
+I am keen to gain more experience in the field.
+
+### I’m currently working on my portfolio 🌱 
+
 <!--
 **rabrad/rabrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
