@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 Hi, I recently became fascinated by web programming e.g. developing apps
 and building websites, thanks to the <a href="https://www.hackyourfuture.net/" target="_blank"> `Hack Your Future`</a> coding school and
 its community of enthusiast developers.
