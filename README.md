@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hello world 🌱
 
 <!--
